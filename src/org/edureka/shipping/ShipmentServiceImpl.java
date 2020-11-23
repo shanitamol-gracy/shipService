@@ -20,4 +20,8 @@ public class ShipmentServiceImpl implements IShipment {
 		return false;
 	}
 
+	public boolean inmemory() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
